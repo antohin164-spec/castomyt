@@ -1,0 +1,12 @@
+{
+  "appId": "com.custom.ytclient",
+  "appName": "YT Custom",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always",
+    "allowsLinkPreview": false
+  }
+}
